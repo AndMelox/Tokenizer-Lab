@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  tokenizer1:
+    build: .
+    ports:
+      - "${PORT}:${PORT}"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    container_name: express-tokenizer-app
+

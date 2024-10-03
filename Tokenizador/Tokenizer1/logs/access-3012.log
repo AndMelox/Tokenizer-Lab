@@ -1,0 +1,15 @@
+[INFO] {"date":"2024-10-03T01:22:38.915Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola"},"result":{"tokens":{"0":71,"1":8083},"tokenCount":2}}
+[INFO] {"date":"2024-10-03T01:22:38.940Z","method":"POST","url":"/tokenize","status":"200","responseTime":"12.996","contentLength":"43","payload":{"text":"hola"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-03T01:22:39.139Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola"},"result":{"tokens":{"0":71,"1":8083},"tokenCount":2}}
+[INFO] {"date":"2024-10-03T01:22:39.141Z","method":"POST","url":"/tokenize","status":"200","responseTime":"1.527","contentLength":"43","payload":{"text":"hola"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-03T01:22:43.577Z","method":"GET","url":"/logs","status":"200","responseTime":"23.347","contentLength":"858","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-03T01:22:50.126Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola caminando "},"result":{"tokens":{"0":71,"1":8083,"2":6730,"3":258,"4":4988,"5":220},"tokenCount":6}}
+[INFO] {"date":"2024-10-03T01:22:50.129Z","method":"POST","url":"/tokenize","status":"200","responseTime":"3.640","contentLength":"77","payload":{"text":"hola caminando "},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-03T01:22:52.044Z","method":"GET","url":"/logs","status":"200","responseTime":"29.540","contentLength":"1557","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-03T01:23:16.700Z","method":"GET","url":"/logs","status":"200","responseTime":"17.728","contentLength":"1765","payload":{},"errorMessage":"Sin errores"}
+

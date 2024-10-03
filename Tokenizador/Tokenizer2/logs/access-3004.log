@@ -1,0 +1,59 @@
+[INFO] {"date":"2024-09-29T21:42:23.860Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"result":{"tokens":{"0":44090,"1":1560,"2":653,"3":58300,"4":409,"5":33125,"6":3429,"7":89805,"8":2537,"9":11460,"10":13},"tokenCount":11}}
+[INFO] {"date":"2024-09-29T21:42:23.876Z","method":"POST","url":"/tokenize","status":"200","responseTime":"15.174","contentLength":"129","payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-29T23:33:14.497Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"result":{"tokens":{"0":44090,"1":1560,"2":653,"3":58300,"4":409,"5":33125,"6":3429,"7":89805,"8":2537,"9":11460,"10":13},"tokenCount":11}}
+[INFO] {"date":"2024-09-29T23:33:14.513Z","method":"POST","url":"/tokenize","status":"200","responseTime":"18.377","contentLength":"129","payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-29T23:36:26.378Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"result":{"tokens":{"0":44090,"1":1560,"2":653,"3":58300,"4":409,"5":33125,"6":3429,"7":89805,"8":2537,"9":11460,"10":13},"tokenCount":11}}
+[INFO] {"date":"2024-09-29T23:36:26.380Z","method":"POST","url":"/tokenize","status":"200","responseTime":"1.647","contentLength":"129","payload":{"text":"Este es un ejemplo de texto para contar los tokens."},"errorMessage":"Sin errores"}
+
+2024-09-29T23:38:55.518Z GET /logs 404 30 - 0.541 ms
+[ERROR] {"date":"2024-09-29T23:38:55.519Z","method":"GET","url":"/logs","status":"404","responseTime":"0.541","contentLength":"30","payload":{},"errorMessage":"Sin errores"}
+
+2024-09-29T23:41:23.621Z GET /logs 404 30 - 0.402 ms
+[ERROR] {"date":"2024-09-29T23:41:23.622Z","method":"GET","url":"/logs","status":"404","responseTime":"0.402","contentLength":"30","payload":{},"errorMessage":"Sin errores"}
+
+2024-09-29T23:42:09.699Z GET /logs 404 30 - 1.046 ms
+[ERROR] {"date":"2024-09-29T23:42:09.700Z","method":"GET","url":"/logs","status":"404","responseTime":"1.046","contentLength":"30","payload":{},"errorMessage":"Sin errores"}
+
+2024-09-29T23:44:25.995Z GET /logs 404 30 - 0.516 ms
+[ERROR] {"date":"2024-09-29T23:44:25.996Z","method":"GET","url":"/logs","status":"404","responseTime":"0.516","contentLength":"30","payload":{},"errorMessage":"Sin errores"}
+
+2024-09-29T23:44:29.765Z GET /logs 404 30 - 0.770 ms
+[ERROR] {"date":"2024-09-29T23:44:29.766Z","method":"GET","url":"/logs","status":"404","responseTime":"0.770","contentLength":"30","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-29T23:52:16.749Z","method":"GET","url":"/logs","status":"200","responseTime":"16.776","contentLength":"3189","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-29T23:54:12.870Z","method":"GET","url":"/logs","status":"200","responseTime":"37.067","contentLength":"3397","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-29T23:59:33.257Z","method":"GET","url":"/logs","status":"200","responseTime":"7.993","contentLength":"3605","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-30T00:18:15.035Z","method":"GET","url":"/logs","status":"200","responseTime":"25.937","contentLength":"3812","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-09-30T00:28:41.763Z","method":"GET","url":"/logs","status":"200","responseTime":"17.688","contentLength":"4020","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T02:43:31.830Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola mundo"},"result":{"tokens":{"0":71,"1":8083,"2":29452},"tokenCount":3}}
+[INFO] {"date":"2024-10-01T02:43:31.855Z","method":"POST","url":"/tokenize","status":"200","responseTime":"13.707","contentLength":"53","payload":{"text":"hola mundo"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T02:46:29.034Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola mundo"},"result":{"tokens":{"0":71,"1":8083,"2":29452},"tokenCount":3}}
+[INFO] {"date":"2024-10-01T02:46:29.037Z","method":"POST","url":"/tokenize","status":"200","responseTime":"1.853","contentLength":"53","payload":{"text":"hola mundo"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T02:47:00.237Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola mundo pedro carlos"},"result":{"tokens":{"0":71,"1":8083,"2":29452,"3":10696,"4":299,"5":1841,"6":2353},"tokenCount":7}}
+[INFO] {"date":"2024-10-01T02:47:00.243Z","method":"POST","url":"/tokenize","status":"200","responseTime":"4.578","contentLength":"89","payload":{"text":"hola mundo pedro carlos"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T02:50:02.209Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"hola mundos"},"result":{"tokens":{"0":71,"1":8083,"2":41666,"3":437},"tokenCount":4}}
+[INFO] {"date":"2024-10-01T02:50:02.217Z","method":"POST","url":"/tokenize","status":"200","responseTime":"57.692","contentLength":"61","payload":{"text":"hola mundos"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T03:02:43.233Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"pedro camina"},"result":{"tokens":{"0":7018,"1":299,"2":6730,"3":2259},"tokenCount":4}}
+[INFO] {"date":"2024-10-01T03:02:43.254Z","method":"POST","url":"/tokenize","status":"200","responseTime":"10.264","contentLength":"62","payload":{"text":"pedro camina"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T03:03:08.099Z","method":"GET","url":"/logs","status":"200","responseTime":"31.971","contentLength":"6588","payload":{},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T03:05:36.554Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"pedro camina"},"result":{"tokens":{"0":7018,"1":299,"2":6730,"3":2259},"tokenCount":4}}
+[INFO] {"date":"2024-10-01T03:05:36.555Z","method":"POST","url":"/tokenize","status":"200","responseTime":"1.605","contentLength":"62","payload":{"text":"pedro camina"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T03:07:25.426Z","method":"POST","url":"/tokenize","status":200,"payload":{"text":"caminando ando"},"result":{"tokens":{"0":66,"1":8778,"2":4988,"3":323,"4":78},"tokenCount":5}}
+[INFO] {"date":"2024-10-01T03:07:25.428Z","method":"POST","url":"/tokenize","status":"200","responseTime":"1.711","contentLength":"67","payload":{"text":"caminando ando"},"errorMessage":"Sin errores"}
+
+[INFO] {"date":"2024-10-01T03:07:26.522Z","method":"GET","url":"/logs","status":"200","responseTime":"17.511","contentLength":"7741","payload":{},"errorMessage":"Sin errores"}
+
